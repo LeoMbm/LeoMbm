@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hello There 😄 </h1>
 
-<!--
-**LeoMbm/LeoMbm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :smiley_cat: I am a student at BeCode
 
-Here are some ideas to get you started:
+### so, curently this is my first try making my readme, hope you like it 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.youtube.com/watch?v=nC9dQOnUyao"><img src="https://indianmemetemplates.com/wp-content/uploads/Computer-Guy.jpg"></a>
+
+## By the way here are some of my statistics 🚀
+![LeoMbm's github stats](https://github-readme-stats.vercel.app/api?username=LeoMbm&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoMbm&theme=tokyonight" alt="mystreak"/>
+![LeoMbm's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMbm&theme=tokyonight&layout=compact)
+
+🌱 I’m currently learning HTML CSS and Javascript.
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+## Contact me : 
+📫 [![Gmail Badge](https://img.shields.io/badge/-leonidas.j.mbm@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:leonidas.j.mbm@gmail.com)](leonidas.j.mbm@gmail.com)
+
+
