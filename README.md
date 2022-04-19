@@ -18,6 +18,10 @@
 ## Contact me : 
 📫 [![Gmail Badge](https://img.shields.io/badge/-leonidas.j.mbm@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:leonidas.j.mbm@gmail.com)](leonidas.j.mbm@gmail.com)
 
+[![Twitter Badge](https://img.shields.io/badge/-@userdesks-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/TechLeo777)](https://twitter.com/TechLeo777) 
+
+[![Linkedin Badge](https://img.shields.io/badge/-rayanekaddoury-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonidas-jeremy-mbuembue-nyunyi-84a10b234/)](https://www.linkedin.com/in/leonidas-jeremy-mbuembue-nyunyi-84a10b234/)
+
 ![visitors](https://komarev.com/ghpvc/?username=LeoMbm&color=yellow)
 
 
