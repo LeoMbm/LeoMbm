@@ -2,7 +2,7 @@
 
 ### :smiley_cat: I am a student at BeCode and i want to be a Software Developer
 
-### so, curently this is my first try making my readme, hope you like it 😄
+### so, currently this is my first try making my readme, hope you like it 😄
 
 <a href="https://www.youtube.com/watch?v=nC9dQOnUyao"><img src="https://indianmemetemplates.com/wp-content/uploads/Computer-Guy.jpg"></a>
 
@@ -18,6 +18,8 @@
 🧱 Back End : Javascript(Node, Express), Python(Django)
 
 🧱 Database : PostgreSQL
+
+
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Contact me : 
