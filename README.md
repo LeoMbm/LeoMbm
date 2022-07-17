@@ -11,10 +11,12 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoMbm&theme=tokyonight" alt="mystreak"/>
 ![LeoMbm's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMbm&theme=tokyonight&layout=compact)
 
-🌱 I’m currently learning the Backend (Python - Django).
+🌱 Currently, i improve my skills in Python.
 
 🧱 Front End : React, Tailwind
-🧱 Back End : Javascript(Node, Express)
+
+🧱 Back End : Javascript(Node, Express), Python(Django)
+
 🧱 Database : PostgreSQL
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
