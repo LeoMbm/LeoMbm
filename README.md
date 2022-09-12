@@ -1,6 +1,6 @@
 <h1 align="center">Hello There 😄 </h1>
 
-### :smiley_cat: I am a student at BeCode and i want to be a Software Developer
+### :smiley_cat: I am an intern from Terra Observation and i want to be a Software Developer
 
 ### so, currently this is my first try making my readme, hope you like it 😄
 
@@ -13,11 +13,11 @@
 
 🌱 Currently, i improve my skills in Python.
 
-🧱 Front End : React, Tailwind
+🧱 Front End : React, Tailwind, Bootstrap
 
-🧱 Back End : Javascript(Node, Express), Python(Django)
+🧱 Back End : Javascript(Node, Express, Adonis), Python(Django)
 
-🧱 Database : PostgreSQL
+🧱 Database : PostgreSQL, MongoDB
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
