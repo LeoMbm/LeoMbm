@@ -7,8 +7,6 @@
 <a href="https://www.youtube.com/watch?v=nC9dQOnUyao"><img src="https://indianmemetemplates.com/wp-content/uploads/Computer-Guy.jpg"></a>
 
 ## By the way here are some of my statistics 🚀
-![LeoMbm's github stats](https://github-readme-stats.vercel.app/api?username=LeoMbm&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoMbm&theme=tokyonight" alt="mystreak"/>
 ![LeoMbm's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMbm&theme=tokyonight&layout=compact)
 
 🌱 Currently, i improve my skills in Python.
