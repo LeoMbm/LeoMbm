@@ -1,14 +1,17 @@
 <h1 align="center">Hello There 😄 </h1>
 
+### I'm a Backend Developer :)
+
 #### 👷 Check out what I'm currently working on
-{{range recentContributions 10}}
+{{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
 #### 🌱 My latest projects
-{{range recentRepos 10}}
+{{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
+
 
 
 <a href="https://www.youtube.com/watch?v=nC9dQOnUyao"><img src="https://indianmemetemplates.com/wp-content/uploads/Computer-Guy.jpg"></a>
