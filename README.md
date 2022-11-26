@@ -1,5 +1,7 @@
 <h1 align="center">Hello There 😄 </h1>
 
+### I'm a Backend Developer :)
+
 #### 👷 Check out what I'm currently working on
 
 - [LeoMbm/chift-frontend](https://github.com/LeoMbm/chift-frontend) -  (1 week ago)
@@ -7,11 +9,6 @@
 - [LeoMbm/find-my-lunch-frontend](https://github.com/LeoMbm/find-my-lunch-frontend) -  (2 weeks ago)
 - [LeoMbm/find-my-lunch](https://github.com/LeoMbm/find-my-lunch) - Find restaurant around you ! (2 weeks ago)
 - [LeoMbm/django-deploy-cli](https://github.com/LeoMbm/django-deploy-cli) - Generate your Procfile, runtime.txt and requirements.txt from the CLI (2 months ago)
-- [LeoMbm/technical-test](https://github.com/LeoMbm/technical-test) -  (2 months ago)
-- [LeoMbm/backend-challenge](https://github.com/LeoMbm/backend-challenge) - View your IP (Backend Challenge) (2 months ago)
-- [LeoMbm/myCloudStorage](https://github.com/LeoMbm/myCloudStorage) - I&#39;m building my own cloud storage app like Google Drive, Dropbox, iCloud, etc ...  (2 months ago)
-- [LeoMbm/Unit-Test](https://github.com/LeoMbm/Unit-Test) -  (3 months ago)
-- [LeoMbm/learn-tdd](https://github.com/LeoMbm/learn-tdd) -  (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -20,11 +17,7 @@
 - [LeoMbm/find-my-lunch-frontend](https://github.com/LeoMbm/find-my-lunch-frontend) - 
 - [LeoMbm/find-my-lunch](https://github.com/LeoMbm/find-my-lunch) - Find restaurant around you !
 - [LeoMbm/django-deploy-cli](https://github.com/LeoMbm/django-deploy-cli) - Generate your Procfile, runtime.txt and requirements.txt from the CLI
-- [LeoMbm/technical-test](https://github.com/LeoMbm/technical-test) - 
-- [LeoMbm/backend-challenge](https://github.com/LeoMbm/backend-challenge) - View your IP (Backend Challenge)
-- [LeoMbm/myCloudStorage](https://github.com/LeoMbm/myCloudStorage) - I&#39;m building my own cloud storage app like Google Drive, Dropbox, iCloud, etc ... 
-- [LeoMbm/Unit-Test](https://github.com/LeoMbm/Unit-Test) - 
-- [LeoMbm/learn-tdd](https://github.com/LeoMbm/learn-tdd) - 
+
 
 
 <a href="https://www.youtube.com/watch?v=nC9dQOnUyao"><img src="https://indianmemetemplates.com/wp-content/uploads/Computer-Guy.jpg"></a>
