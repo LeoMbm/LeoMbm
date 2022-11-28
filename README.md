@@ -6,9 +6,9 @@
 
 - [LeoMbm/chift-frontend](https://github.com/LeoMbm/chift-frontend) -  (1 week ago)
 - [LeoMbm/chift-api](https://github.com/LeoMbm/chift-api) -  (1 week ago)
+- [Herve07h22/fairlytics-community](https://github.com/Herve07h22/fairlytics-community) - Mesure d&#39;audience sans cookie (2 weeks ago)
 - [LeoMbm/find-my-lunch-frontend](https://github.com/LeoMbm/find-my-lunch-frontend) -  (2 weeks ago)
 - [LeoMbm/find-my-lunch](https://github.com/LeoMbm/find-my-lunch) - Find restaurant around you ! (2 weeks ago)
-- [LeoMbm/django-deploy-cli](https://github.com/LeoMbm/django-deploy-cli) - Generate your Procfile, runtime.txt and requirements.txt from the CLI (2 months ago)
 
 #### 🌱 My latest projects
 
