@@ -4,19 +4,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [LeoMbm/work-hours](https://github.com/LeoMbm/work-hours) - A mobile application that allows you to see your working hours! (today)
 - [LeoMbm/chift-frontend](https://github.com/LeoMbm/chift-frontend) -  (2 weeks ago)
 - [LeoMbm/chift-api](https://github.com/LeoMbm/chift-api) -  (2 weeks ago)
 - [Herve07h22/fairlytics-community](https://github.com/Herve07h22/fairlytics-community) - Mesure d&#39;audience sans cookie (3 weeks ago)
 - [LeoMbm/find-my-lunch-frontend](https://github.com/LeoMbm/find-my-lunch-frontend) -  (3 weeks ago)
-- [LeoMbm/find-my-lunch](https://github.com/LeoMbm/find-my-lunch) - Find restaurant around you ! (3 weeks ago)
 
 #### 🌱 My latest projects
 
+- [LeoMbm/work-hours](https://github.com/LeoMbm/work-hours) - A mobile application that allows you to see your working hours!
 - [LeoMbm/chift-frontend](https://github.com/LeoMbm/chift-frontend) - 
 - [LeoMbm/chift-api](https://github.com/LeoMbm/chift-api) - 
 - [LeoMbm/find-my-lunch-frontend](https://github.com/LeoMbm/find-my-lunch-frontend) - 
 - [LeoMbm/find-my-lunch](https://github.com/LeoMbm/find-my-lunch) - Find restaurant around you !
-- [LeoMbm/django-deploy-cli](https://github.com/LeoMbm/django-deploy-cli) - Generate your Procfile, runtime.txt and requirements.txt from the CLI
 
 
 
