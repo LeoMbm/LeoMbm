@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LeoMbm/find-my-lunch](https://github.com/LeoMbm/find-my-lunch) - Find restaurant around you ! (6 days ago)
+- [LeoMbm/find-my-lunch](https://github.com/LeoMbm/find-my-lunch) - Find restaurant around you ! (1 week ago)
 - [LeoMbm/find-my-lunch-frontend](https://github.com/LeoMbm/find-my-lunch-frontend) -  (1 week ago)
 - [LeoMbm/work-hours](https://github.com/LeoMbm/work-hours) - A mobile application that allows you to see your working hours! (1 week ago)
 - [LeoMbm/chift-frontend](https://github.com/LeoMbm/chift-frontend) -  (1 month ago)
