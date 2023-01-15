@@ -6,9 +6,9 @@
 
 - [LeoMbm/find-my-lunch](https://github.com/LeoMbm/find-my-lunch) - Find restaurant around you ! (3 weeks ago)
 - [LeoMbm/find-my-lunch-frontend](https://github.com/LeoMbm/find-my-lunch-frontend) -  (3 weeks ago)
-- [LeoMbm/work-hours](https://github.com/LeoMbm/work-hours) - A mobile application that allows you to see your working hours! (4 weeks ago)
+- [LeoMbm/work-hours](https://github.com/LeoMbm/work-hours) - A mobile application that allows you to see your working hours! (1 month ago)
 - [LeoMbm/chift-frontend](https://github.com/LeoMbm/chift-frontend) -  (1 month ago)
-- [LeoMbm/chift-api](https://github.com/LeoMbm/chift-api) -  (1 month ago)
+- [LeoMbm/chift-api](https://github.com/LeoMbm/chift-api) -  (2 months ago)
 
 #### 🌱 My latest projects
 
