@@ -12,7 +12,7 @@
 
 #### 🌱 My latest projects
 
-- [LeoMbm/check-file](https://github.com/LeoMbm/check-file) - a simple script for my own usage ! I needed to read file to be sure is really a mp3 or wav file 
+- [LeoMbm/check-file](https://github.com/LeoMbm/check-file) - a simple script for my own usage ! Check Format File - Extract BPM-Key - RenameFile - Zip
 - [LeoMbm/work-hours](https://github.com/LeoMbm/work-hours) - A mobile application that allows you to see your working hours!
 - [LeoMbm/chift-frontend](https://github.com/LeoMbm/chift-frontend) - 
 - [LeoMbm/chift-api](https://github.com/LeoMbm/chift-api) - 
