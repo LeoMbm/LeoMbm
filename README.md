@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [LeoMbm/game-dev-learning](https://github.com/LeoMbm/game-dev-learning) -  (today)
 - [LeoMbm/tapio-test](https://github.com/LeoMbm/tapio-test) -  (2 months ago)
 - [LeoMbm/after-party](https://github.com/LeoMbm/after-party) -  (2 months ago)
 - [LeoMbm/api-video](https://github.com/LeoMbm/api-video) -  (2 months ago)
 - [LeoMbm/check-file](https://github.com/LeoMbm/check-file) - a simple script ! Check Format File - Extract BPM-Key - RenameFile - Zip (3 months ago)
-- [LeoMbm/find-my-lunch](https://github.com/LeoMbm/find-my-lunch) - Find restaurant around you ! (7 months ago)
 
 #### 🌱 My latest projects
 
