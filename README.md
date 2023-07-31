@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LeoMbm/game-dev-learning](https://github.com/LeoMbm/game-dev-learning) -  (1 day ago)
+- [LeoMbm/game-dev-learning](https://github.com/LeoMbm/game-dev-learning) -  (2 days ago)
 - [LeoMbm/tapio-test](https://github.com/LeoMbm/tapio-test) -  (2 months ago)
 - [LeoMbm/after-party](https://github.com/LeoMbm/after-party) -  (2 months ago)
 - [LeoMbm/api-video](https://github.com/LeoMbm/api-video) -  (2 months ago)
