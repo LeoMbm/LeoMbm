@@ -12,11 +12,11 @@
 
 #### 🌱 My latest projects
 
+- [LeoMbm/lemmegetajob](https://github.com/LeoMbm/lemmegetajob) - Simple bot that will apply for jobs for me.
 - [LeoMbm/mini-shell](https://github.com/LeoMbm/mini-shell) - Simple mini-shell i decided to create to practice my knowledge in C
 - [LeoMbm/game-dev-learning](https://github.com/LeoMbm/game-dev-learning) - 
 - [LeoMbm/tapio-test](https://github.com/LeoMbm/tapio-test) - 
 - [LeoMbm/after-party](https://github.com/LeoMbm/after-party) - 
-- [LeoMbm/api-video](https://github.com/LeoMbm/api-video) - 
 
 
 
