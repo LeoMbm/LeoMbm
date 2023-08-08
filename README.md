@@ -5,7 +5,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [LeoMbm/lemmegetajob](https://github.com/LeoMbm/lemmegetajob) - Simple bot that will apply for jobs for me. (today)
-- [LeoMbm/mini-shell](https://github.com/LeoMbm/mini-shell) - Simple mini-shell i decided to create to practice my knowledge in C (5 days ago)
+- [LeoMbm/mini-shell](https://github.com/LeoMbm/mini-shell) - Simple mini-shell i decided to create to practice my knowledge in C (6 days ago)
 - [LeoMbm/game-dev-learning](https://github.com/LeoMbm/game-dev-learning) -  (1 week ago)
 - [LeoMbm/tapio-test](https://github.com/LeoMbm/tapio-test) -  (2 months ago)
 - [LeoMbm/after-party](https://github.com/LeoMbm/after-party) -  (2 months ago)
