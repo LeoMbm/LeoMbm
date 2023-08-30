@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LeoMbm/mini-shell](https://github.com/LeoMbm/mini-shell) - Simple mini-shell i decided to create to practice my knowledge in C (3 weeks ago)
+- [LeoMbm/mini-shell](https://github.com/LeoMbm/mini-shell) - Simple mini-shell i decided to create to practice my knowledge in C (4 weeks ago)
 - [LeoMbm/game-dev-learning](https://github.com/LeoMbm/game-dev-learning) -  (1 month ago)
 - [LeoMbm/tapio-test](https://github.com/LeoMbm/tapio-test) -  (3 months ago)
 - [LeoMbm/after-party](https://github.com/LeoMbm/after-party) -  (3 months ago)
