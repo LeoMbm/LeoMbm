@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [RicoLMGJ/website](https://github.com/RicoLMGJ/website) -  (today)
+- [RicoLMGJ/website](https://github.com/RicoLMGJ/website) -  (1 day ago)
 - [LeoMbm/mini-shell](https://github.com/LeoMbm/mini-shell) - Simple mini-shell i decided to create to practice my knowledge in C (1 month ago)
 - [LeoMbm/game-dev-learning](https://github.com/LeoMbm/game-dev-learning) -  (2 months ago)
 - [LeoMbm/tapio-test](https://github.com/LeoMbm/tapio-test) -  (4 months ago)
