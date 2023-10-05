@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [RicoLMGJ/website](https://github.com/RicoLMGJ/website) -  (6 days ago)
+- [RicoLMGJ/.github](https://github.com/RicoLMGJ/.github) -  (today)
+- [RicoLMGJ/website](https://github.com/RicoLMGJ/website) -  (1 week ago)
 - [LeoMbm/mini-shell](https://github.com/LeoMbm/mini-shell) - Simple mini-shell i decided to create to practice my knowledge in C (2 months ago)
 - [LeoMbm/game-dev-learning](https://github.com/LeoMbm/game-dev-learning) -  (2 months ago)
 - [LeoMbm/tapio-test](https://github.com/LeoMbm/tapio-test) -  (4 months ago)
-- [LeoMbm/after-party](https://github.com/LeoMbm/after-party) -  (4 months ago)
 
 #### 🌱 My latest projects
 
