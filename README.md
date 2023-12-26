@@ -7,7 +7,7 @@
 - [RicoLMGJ/.github](https://github.com/RicoLMGJ/.github) -  (2 months ago)
 - [RicoLMGJ/website](https://github.com/RicoLMGJ/website) -  (2 months ago)
 - [LeoMbm/mini-shell](https://github.com/LeoMbm/mini-shell) - Simple mini-shell i decided to create to practice my knowledge in C (4 months ago)
-- [LeoMbm/game-dev-learning](https://github.com/LeoMbm/game-dev-learning) -  (4 months ago)
+- [LeoMbm/game-dev-learning](https://github.com/LeoMbm/game-dev-learning) -  (5 months ago)
 - [LeoMbm/tapio-test](https://github.com/LeoMbm/tapio-test) -  (7 months ago)
 
 #### 🌱 My latest projects
