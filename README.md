@@ -4,19 +4,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [LeoMbm/magic](https://github.com/LeoMbm/magic) -  (today)
 - [RicoLMGJ/.github](https://github.com/RicoLMGJ/.github) -  (4 months ago)
 - [RicoLMGJ/website](https://github.com/RicoLMGJ/website) -  (4 months ago)
 - [LeoMbm/mini-shell](https://github.com/LeoMbm/mini-shell) - Simple mini-shell i decided to create to practice my knowledge in C (6 months ago)
 - [LeoMbm/game-dev-learning](https://github.com/LeoMbm/game-dev-learning) -  (6 months ago)
-- [LeoMbm/tapio-test](https://github.com/LeoMbm/tapio-test) -  (8 months ago)
 
 #### 🌱 My latest projects
 
+- [LeoMbm/magic](https://github.com/LeoMbm/magic) - 
 - [LeoMbm/mini-shell](https://github.com/LeoMbm/mini-shell) - Simple mini-shell i decided to create to practice my knowledge in C
 - [LeoMbm/game-dev-learning](https://github.com/LeoMbm/game-dev-learning) - 
 - [LeoMbm/tapio-test](https://github.com/LeoMbm/tapio-test) - 
 - [LeoMbm/after-party](https://github.com/LeoMbm/after-party) - 
-- [LeoMbm/api-video](https://github.com/LeoMbm/api-video) - 
 
 
 
