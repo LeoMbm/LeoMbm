@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LeoMbm/magic](https://github.com/LeoMbm/magic) -  (2 weeks ago)
+- [LeoMbm/magic](https://github.com/LeoMbm/magic) -  (3 weeks ago)
 - [RicoLMGJ/.github](https://github.com/RicoLMGJ/.github) -  (4 months ago)
 - [RicoLMGJ/website](https://github.com/RicoLMGJ/website) -  (5 months ago)
-- [LeoMbm/mini-shell](https://github.com/LeoMbm/mini-shell) - Simple mini-shell i decided to create to practice my knowledge in C (6 months ago)
+- [LeoMbm/mini-shell](https://github.com/LeoMbm/mini-shell) - Simple mini-shell i decided to create to practice my knowledge in C (7 months ago)
 - [LeoMbm/game-dev-learning](https://github.com/LeoMbm/game-dev-learning) -  (7 months ago)
 
 #### 🌱 My latest projects
