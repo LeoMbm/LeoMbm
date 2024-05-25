@@ -6,7 +6,7 @@
 
 - [LeoMbm/magic](https://github.com/LeoMbm/magic) -  (3 months ago)
 - [RicoLMGJ/.github](https://github.com/RicoLMGJ/.github) -  (7 months ago)
-- [RicoLMGJ/website](https://github.com/RicoLMGJ/website) -  (7 months ago)
+- [RicoLMGJ/website](https://github.com/RicoLMGJ/website) -  (8 months ago)
 - [LeoMbm/mini-shell](https://github.com/LeoMbm/mini-shell) - Simple mini-shell i decided to create to practice my knowledge in C (9 months ago)
 - [LeoMbm/game-dev-learning](https://github.com/LeoMbm/game-dev-learning) -  (10 months ago)
 
