@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LeoMbm/magic](https://github.com/LeoMbm/magic) -  (5 months ago)
+- [LeoMbm/magic](https://github.com/LeoMbm/magic) -  (6 months ago)
 - [RicoLMGJ/.github](https://github.com/RicoLMGJ/.github) -  (10 months ago)
 - [RicoLMGJ/website](https://github.com/RicoLMGJ/website) -  (10 months ago)
 - [LeoMbm/mini-shell](https://github.com/LeoMbm/mini-shell) - Simple mini-shell i decided to create to practice my knowledge in C (1 year ago)
