@@ -5,7 +5,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [LeoMbm/magic](https://github.com/LeoMbm/magic) -  (6 months ago)
-- [RicoLMGJ/.github](https://github.com/RicoLMGJ/.github) -  (10 months ago)
+- [RicoLMGJ/.github](https://github.com/RicoLMGJ/.github) -  (11 months ago)
 - [RicoLMGJ/website](https://github.com/RicoLMGJ/website) -  (11 months ago)
 
 #### 🌱 My latest projects
