@@ -6,7 +6,6 @@
 
 - [LeoMbm/magic](https://github.com/LeoMbm/magic) -  (7 months ago)
 - [RicoLMGJ/.github](https://github.com/RicoLMGJ/.github) -  (1 year ago)
-- [RicoLMGJ/website](https://github.com/RicoLMGJ/website) -  (1 year ago)
 
 #### 🌱 My latest projects
 
