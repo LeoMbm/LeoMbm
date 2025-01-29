@@ -4,15 +4,17 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [LeoMbm/car-boilerplate](https://github.com/LeoMbm/car-boilerplate) -  (4 days ago)
+- [LeoMbm/portfolio](https://github.com/LeoMbm/portfolio) -  (1 week ago)
 - [LeoMbm/magic](https://github.com/LeoMbm/magic) -  (11 months ago)
 
 #### 🌱 My latest projects
 
+- [LeoMbm/car-boilerplate](https://github.com/LeoMbm/car-boilerplate) - 
+- [LeoMbm/portfolio](https://github.com/LeoMbm/portfolio) - 
 - [LeoMbm/magic](https://github.com/LeoMbm/magic) - 
-- [LeoMbm/mini-shell](https://github.com/LeoMbm/mini-shell) - Simple mini-shell i decided to create to practice my knowledge in C
-- [LeoMbm/game-dev-learning](https://github.com/LeoMbm/game-dev-learning) - 
-- [LeoMbm/tapio-test](https://github.com/LeoMbm/tapio-test) - 
-- [LeoMbm/after-party](https://github.com/LeoMbm/after-party) - 
+- [LeoMbm/lemmegetajob-web-server](https://github.com/LeoMbm/lemmegetajob-web-server) - 
+- [LeoMbm/lemmegetajob-web-client](https://github.com/LeoMbm/lemmegetajob-web-client) - 
 
 
 
