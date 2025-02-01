@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LeoMbm/car-boilerplate](https://github.com/LeoMbm/car-boilerplate) -  (6 days ago)
+- [LeoMbm/car-boilerplate](https://github.com/LeoMbm/car-boilerplate) -  (1 week ago)
 - [LeoMbm/portfolio](https://github.com/LeoMbm/portfolio) -  (2 weeks ago)
-- [LeoMbm/magic](https://github.com/LeoMbm/magic) -  (11 months ago)
+- [LeoMbm/magic](https://github.com/LeoMbm/magic) -  (1 year ago)
 
 #### 🌱 My latest projects
 
