@@ -4,7 +4,6 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LeoMbm/magic](https://github.com/LeoMbm/magic) -  (1 year ago)
 
 #### 🌱 My latest projects
 
